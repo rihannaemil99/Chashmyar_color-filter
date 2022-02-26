@@ -1,2 +1,4 @@
 # Chashmyar_color-filter
-a startup based on artificial intelligence virtual glass service.
+Chashmyar is a startup that develops artificial intelligence healthcare services for eye.
+
+Our website: www.chashmyar.ir
